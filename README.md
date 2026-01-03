@@ -1,2 +1,2 @@
 # demo-bank-common-events
-Shared Kafka event contracts
+Shared Kafka event contracts\
