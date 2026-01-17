@@ -7,4 +7,6 @@ public final class EventTopics {
   public static final String LEDGER_EVENTS   = "demo-bank.ledger.events";
   public static final String AML_EVENTS      = "demo-bank.aml.events";
   public static final String NOTIFY_EVENTS   = "demo-bank.notify.events";
+  public static final String TEST_EVENTS   = "demo-bank.test.events";
+
 }
